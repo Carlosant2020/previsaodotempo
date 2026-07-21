@@ -3,7 +3,8 @@
 Um aplicativo com interface gráfica desenvolvido em Python que consome dados meteorológicos em tempo real de uma API externa. O projeto foi criado para explorar conceitos de integração web, requisições HTTP, manipulação de arquivos JSON e exibição de imagens dinâmicas.
 
 ## 📸 Demonstração
-*https://github.com/user-attachments/assets/ad0c3068-9092-45d0-bc17-be0985222d96*
+<img width="400" height="225" alt="previsao do tempo" src="https://github.com/user-attachments/assets/6d6e0d86-eb65-43d4-bd9e-2febb5fd33f2" />
+
 
 ## 🚀 Funcionalidades
 - **Consulta em Tempo Real:** Conecta-se à API do OpenWeatherMap para buscar o clima atual de qualquer cidade do mundo.
